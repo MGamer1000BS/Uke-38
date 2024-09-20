@@ -1,0 +1,21 @@
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    font-size: 21px;
+    background-color: #99cc99;
+}
+
+h1 {
+    font-family: sans-serif;
+
+}
+.test{
+    display: flex;
+}
